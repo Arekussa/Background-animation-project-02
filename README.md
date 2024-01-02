@@ -6,7 +6,7 @@
   ︵‿︵‿୨♡୧‿︵‿︵
  - HTML5 ✿
  - CSS ✿
- - Javascript ✿
+ - JavaScript ✿
  
 ︵‿︵‿୨♡୧‿︵‿︵
  
