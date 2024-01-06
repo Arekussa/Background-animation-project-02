@@ -9,6 +9,6 @@
  - JavaScript ✿
  
 ︵‿︵‿୨♡୧‿︵‿︵
- 
- 
+
+ ╰┈➤ This is a project where the background is animated with icons that interact with the movement of the cursor and light up ᧖(• ᦢ •)ᦣ.
 >Arekussa ( • ̀ω•́ )✧
