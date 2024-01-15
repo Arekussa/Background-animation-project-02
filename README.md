@@ -11,4 +11,5 @@
 ︵‿︵‿୨♡୧‿︵‿︵
 
  ╰┈➤ This is a tool in which the background is animated with icons that interact with the movement of the cursor by lighting up ᧖(• ᦢ •)ᦣ.
+ ![Animated Background](https://github.com/Arekussa/tool-01-animated-background/blob/master/images/Animated-Background-readme.gif?raw=true)
 >Arekussa ( • ̀ω•́ )✧
